@@ -1,0 +1,15 @@
+{
+  "name": "day-52---image-gallery",
+  "version": "1.0.0",
+  "description": "image gallery",
+  "main": "main.js",
+  "scripts": {
+    "dev": "json-server --watch ./database/db.json"
+  },
+  "keywords": [],
+  "author": "ahnaf",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

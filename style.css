@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 800px;
+}
+.container .card{
+    width: 300px;
+    display: block;
+    margin-right: 5px;
+}
+.container .card img{
+    height: 402px;
+}
+.pages{
+    margin-top: 100px;
+}
+span {
+    color: rgb(255, 255, 255);
+    background-color: rgb(138, 102, 181);
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: 2px;
+}
