@@ -54,8 +54,7 @@ const UI = {
             pagination.append(span)
         }
     },
-    windowLoader(){}
 }
 
 UI.buttonInit()
-UI.windowLoader()
+// UI.windowLoader()
