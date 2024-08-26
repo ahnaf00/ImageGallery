@@ -1,0 +1,3 @@
+``
+The ImageGallery project is a web application that utilizes raw JavaScript to dynamically fetch and display images from a local JSON file (db.json). The application demonstrates core JavaScript features such as fetch API for asynchronous data retrieval, DOM manipulation to dynamically generate image cards, and event handling for pagination. JavaScript functions are employed to create interactive elements, such as page buttons, which allow users to navigate through multiple pages of images. The gallery is built without the use of any JavaScript libraries or frameworks, highlighting pure JavaScript capabilities in managing UI components and handling user interactions.
+``
